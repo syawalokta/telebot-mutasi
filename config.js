@@ -1,5 +1,5 @@
 export const config = {
-  token: "8578776348:AAF1GDm8S3BRfQNI3ll3k9igSjGyiQt-EkE",
+  token: "",
   botname: "VoltraBotz",
   ownername: "Oktodev",
   ownerid: ["6807264289"],
@@ -13,7 +13,7 @@ export const config = {
 
   OrderKuota: {
     apikey: "oktodev",
-    username: "oktodev",
-    api_token: "2260758:cujmTPaJ7IdZ8yoWKHUQ69VFSq5fX3Og"
+    username: "",
+    api_token: ""
   }
 }
