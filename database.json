@@ -1,0 +1,131 @@
+{
+  "last_id": 193529438,
+  "data": [
+    {
+      "id": 192929947,
+      "debet": "0",
+      "kredit": "100",
+      "saldo_akhir": "230",
+      "keterangan": "NOBU / MU********************",
+      "tanggal": "08/01/2026 04:23",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "DANA",
+        "logo": "https://app.orderkuota.com/assets/qris/dana.png"
+      }
+    },
+    {
+      "id": 192930129,
+      "debet": "0",
+      "kredit": "100",
+      "saldo_akhir": "330",
+      "keterangan": "NOBU / MU********************",
+      "tanggal": "08/01/2026 04:32",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "DANA",
+        "logo": "https://app.orderkuota.com/assets/qris/dana.png"
+      }
+    },
+    {
+      "id": 193052275,
+      "debet": "0",
+      "kredit": "200",
+      "saldo_akhir": "530",
+      "keterangan": "NOBU / OK**",
+      "tanggal": "08/01/2026 17:22",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "DANA",
+        "logo": "https://app.orderkuota.com/assets/qris/dana.png"
+      }
+    },
+    {
+      "id": 193071836,
+      "debet": "0",
+      "kredit": "150.000",
+      "saldo_akhir": "150.530",
+      "keterangan": "NOBU / ERNAWATI",
+      "tanggal": "08/01/2026 18:50",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "OCBC",
+        "logo": "https://app.orderkuota.com/assets/qris/default.png"
+      }
+    },
+    {
+      "id": 193133517,
+      "debet": "0",
+      "kredit": "100",
+      "saldo_akhir": "630",
+      "keterangan": "NOBU / MUHAMMAD IKHWANUL FATA",
+      "tanggal": "08/01/2026 22:17",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "Seabank",
+        "logo": "https://app.orderkuota.com/assets/qris/default.png"
+      }
+    },
+    {
+      "id": 193135548,
+      "debet": "0",
+      "kredit": "50",
+      "saldo_akhir": "680",
+      "keterangan": "NOBU / MUHAMMAD IKHWANUL FATA",
+      "tanggal": "08/01/2026 22:26",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "Seabank",
+        "logo": "https://app.orderkuota.com/assets/qris/default.png"
+      }
+    },
+    {
+      "id": 193237727,
+      "debet": "0",
+      "kredit": "4.201",
+      "saldo_akhir": "4.881",
+      "keterangan": "NOBU / MU********************",
+      "tanggal": "09/01/2026 14:38",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "DANA",
+        "logo": "https://app.orderkuota.com/assets/qris/dana.png"
+      }
+    },
+    {
+      "id": 193332185,
+      "debet": "0",
+      "kredit": "20.000",
+      "saldo_akhir": "24.881",
+      "keterangan": "NOBU / MU**********************",
+      "tanggal": "09/01/2026 21:24",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "DANA",
+        "logo": "https://app.orderkuota.com/assets/qris/dana.png"
+      }
+    },
+    {
+      "id": 193529438,
+      "debet": "0",
+      "kredit": "50",
+      "saldo_akhir": "931",
+      "keterangan": "NOBU / MUHAMMAD IKHWANUL FATA",
+      "tanggal": "10/01/2026 15:20",
+      "status": "IN",
+      "fee": "",
+      "brand": {
+        "name": "Seabank",
+        "logo": "https://app.orderkuota.com/assets/qris/default.png"
+      }
+    }
+  ]
+}
