@@ -35,7 +35,7 @@ export default function autoMutasi(bot, config) {
 📅 ${trx.tanggal}
 💼 Total Saldo : ${trx.saldo_akhir}
         ` : `
-❤ *SALDO KELUAR*
+ *SALDO KELUAR*
 
 🏦 Brand : ${trx.brand.name}
 💳 Jumlah : Rp ${trx.debet}
